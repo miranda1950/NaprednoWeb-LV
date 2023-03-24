@@ -1,0 +1,2 @@
+INSERT INTO diplomski (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oil_tvrtke`) VALUES
+INSERT INTO radovi (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES
